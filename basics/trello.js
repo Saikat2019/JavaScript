@@ -29,7 +29,7 @@ let getSummeryOfDay = function(todo)
 
 addMeeting(myTodos,4);
 addMeeting(myTodos,4);
-
+///
 meetDone(myTodos,5);
 
 console.log(myTodos);
