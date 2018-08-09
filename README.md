@@ -1,4 +1,4 @@
-# NODEJS
+# JavaScript
 
 ## how to install Nodejs(8.x) on ubuntu 16.04
 
