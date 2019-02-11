@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Saikat2019/MY_README_TEMPLATE/master/README_RES/icon.jpeg" align="right" />
 
-[![Language](https://img.shields.io/badge/Java-18.9-8f00b3.svg)](https://www.java.com/en/)
+[![Language](https://img.shields.io/badge/JavaScript-18.9-8f00b3.svg)](https://www.java.com/en/)
 
 
 ## Table of Contents
